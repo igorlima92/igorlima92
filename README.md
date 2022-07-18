@@ -1,6 +1,6 @@
 ### Olá! Eu sou Igor Lima 👋
 
-- 🔭 Atualmente trabalho como Consultor de Implantação
+- 🔭 Atualmente trabalhando como Consultor de Implantação
 - 🌱 Estudando Engenharia de Software
 - 😄 Pronouns: ele/dele
 
