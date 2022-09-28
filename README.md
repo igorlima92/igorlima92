@@ -1,7 +1,7 @@
 ### Olá! Eu sou Igor Lima 👋
 
 - 🔭 Atualmente trabalhando como Consultor de Implantação
-- 🌱 Estudando Engenharia de Software
+- 🌱 Estudando Engenharia de Software / Front-End
 - 😄 Pronouns: ele/dele
 
 <div>
