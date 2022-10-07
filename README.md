@@ -27,3 +27,7 @@
 ![Snake animation](https://github.com/igorlima92/igorlima92/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div>
+   <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
+</div>
