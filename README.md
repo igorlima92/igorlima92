@@ -1,7 +1,7 @@
-### Olá! Eu sou Igor Lima 👋
+### Hello! I am Igor Lima 👋
 
-- 🌱 Estudando Engenharia de Software / Front-End
-- 😄 Pronouns: ele/dele
+- 🌱 Studying Software Engineering / Front-End
+- 😄 Pronouns: him his
 
 <div>
   <a href="https://github.com/igorlima92">
