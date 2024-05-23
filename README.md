@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ## Social media
@@ -36,8 +35,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{igorlima92}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
 
 <div>
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
+
